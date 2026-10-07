@@ -38,8 +38,7 @@ The left panel shows the analytical hoop stress distribution around the pore. Th
 
 The nominal von Mises stress is included as a reference for comparison.
 
-![Hoop stress around a pore](images/combined_tension_hoop.png)
-
+![Hoop stress around a pore](images/combined_tension_hoop.gif)
 ## How to run
 
 Download the MATLAB files and open their folder in MATLAB.
